@@ -1,8 +1,6 @@
 # Cerebrus
 
-A Python network scanner similar to nmap. Scans ports, discovers hosts, and detects services.
-
-For educational and authorized testing only.
+A Python network scanner similar to nmap. Scans ports, discovers hosts, and detects services
 
 ## Requirements
 
@@ -43,3 +41,4 @@ target              Target IP, hostname, or CIDR range
 ## Legal
 
 Only scan networks you own or have permission to test.
+
